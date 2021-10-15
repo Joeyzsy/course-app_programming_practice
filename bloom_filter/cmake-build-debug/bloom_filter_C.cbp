@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="bloom_filter_C"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bloom_filter_C">
+				<Option output="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/cmake-build-debug/bloom_filter_C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 bloom_filter_C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bloom_filter_C/fast">
+				<Option output="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/cmake-build-debug/bloom_filter_C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 bloom_filter_C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom\ filter_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/bf_search.c">
+			<Option target="bloom_filter_C"/>
+		</Unit>
+		<Unit filename="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/bloom.c">
+			<Option target="bloom_filter_C"/>
+		</Unit>
+		<Unit filename="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/bloom.h">
+			<Option target="bloom_filter_C"/>
+		</Unit>
+		<Unit filename="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/cmake-build-debug/MurmurHash2.h">
+			<Option target="bloom_filter_C"/>
+		</Unit>
+		<Unit filename="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/hello.c">
+			<Option target="bloom_filter_C"/>
+		</Unit>
+		<Unit filename="/Users/shiyuzhang/Documents/bupt/研一/课程/应用编程实验/实验提交/bloom filter_C/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
